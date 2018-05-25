@@ -1,0 +1,9 @@
+*~
+fbcp
+a.out
+*.swap
+splash
+Makefile
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
